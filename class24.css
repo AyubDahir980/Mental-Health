@@ -1,0 +1,27 @@
+h1{
+    background-color: lightblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 40px;
+    margin-top: -10px;
+    margin-right: -20px;
+    margin-left: -20px;
+}
+h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: lightblue;
+    padding: 29px;
+    border: 5px ridge gray;
+}
+html{
+    background-color: blueviolet;
+}
+h3{
+    background-color: lightblue;
+    padding: 20px;
+    border: 5px ridge gray;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img{
+    border: 5px ridge gray;
+    
+}
